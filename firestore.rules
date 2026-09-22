@@ -1,0 +1,85 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function getUserData() {
+      return get(/databases/database/documents/users/$(request.auth.uid)).data;
+    }
+    
+    function isSeniorOfficial() {
+      return isAuthenticated() && (
+        request.auth.token.role == 'SENIOR_OFFICIAL' ||
+        getUserData().role == 'SENIOR_OFFICIAL'
+      );
+    }
+    
+    function isInspector() {
+      return isAuthenticated() && (
+        request.auth.token.role == 'INSPECTOR' ||
+        getUserData().role == 'INSPECTOR' ||
+        isSeniorOfficial()
+      );
+    }
+
+    // Users Collection: Users can read profiles; only modify own non-privileged attributes
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated() && request.auth.uid == userId;
+      allow update: if isAuthenticated() && (
+        isSeniorOfficial() || 
+        (request.auth.uid == userId && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role', 'officerId', 'isApproved']))
+      );
+      allow delete: if isSeniorOfficial();
+    }
+    
+    // Officers Collection: Public within department for roster lookup; Senior Official writes
+    match /officers/{officerId} {
+      allow read: if isAuthenticated();
+      allow write: if isSeniorOfficial();
+    }
+
+    // FIRs: Inspectors can create and view assigned or public; Senior Officials can view all & delete
+    match /firs/{firId} {
+      allow read: if isInspector();
+      allow create: if isInspector();
+      allow update: if isInspector() && (
+        isSeniorOfficial() || resource.data.investigatingOfficerId == request.auth.uid || resource.data.assignedTo == request.auth.uid
+      );
+      allow delete: if isSeniorOfficial();
+    }
+
+    // Persons, Phone Records, Vehicles, Locations, Organizations, Transactions, CDR Records:
+    // Core investigative intelligence read by Inspectors, written by authorized investigators
+    match /persons/{id} { allow read, write: if isInspector(); }
+    match /phone_records/{id} { allow read, write: if isInspector(); }
+    match /vehicles/{id} { allow read, write: if isInspector(); }
+    match /locations/{id} { allow read, write: if isInspector(); }
+    match /organizations/{id} { allow read, write: if isInspector(); }
+    match /transactions/{id} { allow read, write: if isInspector(); }
+    match /cdr_records/{id} { allow read, write: if isInspector(); }
+    match /events/{id} { allow read, write: if isInspector(); }
+    match /relationships/{id} { allow read, write: if isInspector(); }
+
+    // Analytics & Intelligence
+    match /network_analysis/{id} { allow read, write: if isInspector(); }
+    match /crime_hotspots/{id} { allow read: if isInspector(); allow write: if isSeniorOfficial(); }
+    match /anomalies/{id} { allow read: if isInspector(); allow write: if isSeniorOfficial(); }
+    match /risk_models/{id} { allow read: if isInspector(); allow write: if isSeniorOfficial(); }
+    match /investigations/{id} {
+      allow read: if isInspector();
+      allow write: if isInspector();
+    }
+
+    // Audit logs: Append-only for all actions; read restricted to Senior Officials
+    match /audit_logs/{logId} {
+      allow read: if isSeniorOfficial();
+      allow create: if isAuthenticated();
+      allow update, delete: if false; // Immutable audit trail
+    }
+  }
+}

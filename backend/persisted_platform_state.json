@@ -1,0 +1,2436 @@
+{
+  "firs": [
+    {
+      "id": "fir_2026_05f26d",
+      "firNumber": "FIR-2026-DL-9223",
+      "policeStation": "Connaught Place PS, New Delhi",
+      "dateReported": "2026-09-10T16:50:23.844501Z",
+      "dateOfOccurrence": "91-90001-2001",
+      "crimeCategory": "Organized Crime Syndicate & Hawala Network",
+      "sectionsIPC": [
+        "IPC 120B (Criminal Conspiracy)",
+        "MCOCA / PMLA Provisions",
+        "IPC 384 (Extortion)"
+      ],
+      "sectionsBNS": [
+        "BNS 111 (Organized Crime)",
+        "BNS 61 (Criminal Conspiracy)",
+        "BNS 308 (Extortion)"
+      ],
+      "complainant": "Department Vigilance Informant",
+      "status": "UNDER_INVESTIGATION",
+      "severity": "CRITICAL",
+      "investigatingOfficerId": "off_002",
+      "investigatingOfficerName": "Insp. Ananya Sharma",
+      "assignedTo": "off_002",
+      "briefSummary": "**Analytical Intelligence Briefing**:\n\n\u2022 **Incident Classification**: Organized Crime Syndicate & Hawala Network (Severity Level: CRITICAL)\n\u2022 **Incident Locus**: Reported at or proximate to Zone 1 Holding.\n\n**Persons of Interest & Investigative Leads**:\nForensic extraction identified 16 individual(s) of interest, notably **Ranjith (OP RANJITH), Navneeth (Cipher)**. Analytical indicators reflect a potential relationship connecting these individuals to vehicle **Fleet-01** and communication line **+91-90001-2001**.\n\n**Relational Network Triangulation**:\nCross-referencing established 53 potential relational linkages linking communication records, corporate front entities, and geographic transit corridors. These linkages are analytical indicators and do not constitute definitive proof of culpability.\n\n**Recommended Investigative Directives**:\n1. Issue tower dump subpoena for cellular towers serving Zone 1 Holding across the occurrence window.\n2. Initiate automated ANPR surveillance on toll corridors for Fleet-01.\n3. Summon identified persons of interest for formal inquiry under relevant provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS).",
+      "location": "Zone 1 Holding",
+      "coordinates": {
+        "lat": 28.5672,
+        "lng": 77.21
+      },
+      "extractedEntities": {
+        "suspects": [
+          "Ranjith (OP RANJITH)",
+          "Navneeth (Cipher)",
+          "Lokesh (The Banker)",
+          "Rajesh (Ghost)",
+          "Kemo (The Chemist)",
+          "SaiKrishna (Observer)",
+          "Tameem (Quartermaster)",
+          "Praveen (Night Hawk)",
+          "Ranjith",
+          "Navneeth",
+          "Lokesh",
+          "Rajesh",
+          "Kemo",
+          "SaiKrishna",
+          "Tameem",
+          "Praveen"
+        ],
+        "phones": [
+          "+91-90001-2001",
+          "+91-90001-2002",
+          "+91-90001-2003",
+          "+91-90001-2004",
+          "+91-90001-2005",
+          "+91-90001-2006",
+          "+91-90001-2007",
+          "+91-90001-2008",
+          "+91-90001-2009",
+          "+91-90001-2010"
+        ],
+        "vehicles": [
+          "Fleet-01",
+          "Fleet-02",
+          "Fleet-03",
+          "Fleet-04",
+          "Fleet-05",
+          "Fleet-06",
+          "Fleet-07",
+          "Fleet-08",
+          "Fleet-09",
+          "Fleet-10"
+        ],
+        "accounts": [
+          "HDFC-MULE-4819 (Flagged Mule Account)"
+        ],
+        "organizations": [
+          "SELF (SUPREME CORE)"
+        ]
+      }
+    },
+    {
+      "id": "fir_2026_9f879f",
+      "firNumber": "FIR-2026-DL-4092",
+      "policeStation": "Connaught Place PS, New Delhi",
+      "dateReported": "2026-09-10T12:38:12.047261Z",
+      "dateOfOccurrence": "91-90001-2001",
+      "crimeCategory": "Organized Crime Syndicate & Hawala Network",
+      "sectionsIPC": [
+        "IPC 120B (Criminal Conspiracy)",
+        "MCOCA / PMLA Provisions",
+        "IPC 384 (Extortion)"
+      ],
+      "sectionsBNS": [
+        "BNS 111 (Organized Crime)",
+        "BNS 61 (Criminal Conspiracy)",
+        "BNS 308 (Extortion)"
+      ],
+      "complainant": "Department Vigilance Informant",
+      "status": "UNDER_INVESTIGATION",
+      "severity": "CRITICAL",
+      "investigatingOfficerId": "off_002",
+      "investigatingOfficerName": "Insp. Ananya Sharma",
+      "assignedTo": "off_002",
+      "briefSummary": "**Analytical Intelligence Briefing**:\n\n\u2022 **Incident Classification**: Organized Crime Syndicate & Hawala Network (Severity Level: CRITICAL)\n\u2022 **Incident Locus**: Reported at or proximate to Zone 1 Holding.\n\n**Persons of Interest & Investigative Leads**:\nForensic extraction identified 16 individual(s) of interest, notably **Ranjith (OP RANJITH), Navneeth (Cipher)**. Analytical indicators reflect a potential relationship connecting these individuals to vehicle **Fleet-01** and communication line **+91-90001-2001**.\n\n**Relational Network Triangulation**:\nCross-referencing established 53 potential relational linkages linking communication records, corporate front entities, and geographic transit corridors. These linkages are analytical indicators and do not constitute definitive proof of culpability.\n\n**Recommended Investigative Directives**:\n1. Issue tower dump subpoena for cellular towers serving Zone 1 Holding across the occurrence window.\n2. Initiate automated ANPR surveillance on toll corridors for Fleet-01.\n3. Summon identified persons of interest for formal inquiry under relevant provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS).",
+      "location": "Zone 1 Holding",
+      "coordinates": {
+        "lat": 28.5672,
+        "lng": 77.21
+      },
+      "extractedEntities": {
+        "suspects": [
+          "Ranjith (OP RANJITH)",
+          "Navneeth (Cipher)",
+          "Lokesh (The Banker)",
+          "Rajesh (Ghost)",
+          "Kemo (The Chemist)",
+          "SaiKrishna (Observer)",
+          "Tameem (Quartermaster)",
+          "Praveen (Night Hawk)",
+          "Ranjith",
+          "Navneeth",
+          "Lokesh",
+          "Rajesh",
+          "Kemo",
+          "SaiKrishna",
+          "Tameem",
+          "Praveen"
+        ],
+        "phones": [
+          "+91-90001-2001",
+          "+91-90001-2002",
+          "+91-90001-2003",
+          "+91-90001-2004",
+          "+91-90001-2005",
+          "+91-90001-2006",
+          "+91-90001-2007",
+          "+91-90001-2008",
+          "+91-90001-2009",
+          "+91-90001-2010"
+        ],
+        "vehicles": [
+          "Fleet-01",
+          "Fleet-02",
+          "Fleet-03",
+          "Fleet-04",
+          "Fleet-05",
+          "Fleet-06",
+          "Fleet-07",
+          "Fleet-08",
+          "Fleet-09",
+          "Fleet-10"
+        ],
+        "accounts": [
+          "HDFC-MULE-4819 (Flagged Mule Account)"
+        ],
+        "organizations": [
+          "SELF (SUPREME CORE)"
+        ]
+      }
+    },
+    {
+      "id": "fir_2026_82ca41",
+      "firNumber": "FIR-2026-DL-3995",
+      "policeStation": "Connaught Place PS, New Delhi",
+      "dateReported": "2026-09-10T12:36:35.686155Z",
+      "dateOfOccurrence": "91-90001-2001",
+      "crimeCategory": "Organized Crime Syndicate & Hawala Network",
+      "sectionsIPC": [
+        "IPC 120B (Criminal Conspiracy)",
+        "MCOCA / PMLA Provisions",
+        "IPC 384 (Extortion)"
+      ],
+      "sectionsBNS": [
+        "BNS 111 (Organized Crime)",
+        "BNS 61 (Criminal Conspiracy)",
+        "BNS 308 (Extortion)"
+      ],
+      "complainant": "Department Vigilance Informant",
+      "status": "UNDER_INVESTIGATION",
+      "severity": "CRITICAL",
+      "investigatingOfficerId": "off_002",
+      "investigatingOfficerName": "Insp. Ananya Sharma",
+      "assignedTo": "off_002",
+      "briefSummary": "**Analytical Intelligence Briefing**:\n\n\u2022 **Incident Classification**: Organized Crime Syndicate & Hawala Network (Severity Level: CRITICAL)\n\u2022 **Incident Locus**: Reported at or proximate to Zone 1 Holding.\n\n**Persons of Interest & Investigative Leads**:\nForensic extraction identified 16 individual(s) of interest, notably **Ranjith (OP RANJITH), Navneeth (Cipher)**. Analytical indicators reflect a potential relationship connecting these individuals to vehicle **Fleet-01** and communication line **+91-90001-2001**.\n\n**Relational Network Triangulation**:\nCross-referencing established 53 potential relational linkages linking communication records, corporate front entities, and geographic transit corridors. These linkages are analytical indicators and do not constitute definitive proof of culpability.\n\n**Recommended Investigative Directives**:\n1. Issue tower dump subpoena for cellular towers serving Zone 1 Holding across the occurrence window.\n2. Initiate automated ANPR surveillance on toll corridors for Fleet-01.\n3. Summon identified persons of interest for formal inquiry under relevant provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS).",
+      "location": "Zone 1 Holding",
+      "coordinates": {
+        "lat": 28.5672,
+        "lng": 77.21
+      },
+      "extractedEntities": {
+        "suspects": [
+          "Ranjith (OP RANJITH)",
+          "Navneeth (Cipher)",
+          "Lokesh (The Banker)",
+          "Rajesh (Ghost)",
+          "Kemo (The Chemist)",
+          "SaiKrishna (Observer)",
+          "Tameem (Quartermaster)",
+          "Praveen (Night Hawk)",
+          "Ranjith",
+          "Navneeth",
+          "Lokesh",
+          "Rajesh",
+          "Kemo",
+          "SaiKrishna",
+          "Tameem",
+          "Praveen"
+        ],
+        "phones": [
+          "+91-90001-2001",
+          "+91-90001-2002",
+          "+91-90001-2003",
+          "+91-90001-2004",
+          "+91-90001-2005",
+          "+91-90001-2006",
+          "+91-90001-2007",
+          "+91-90001-2008",
+          "+91-90001-2009",
+          "+91-90001-2010"
+        ],
+        "vehicles": [
+          "Fleet-01",
+          "Fleet-02",
+          "Fleet-03",
+          "Fleet-04",
+          "Fleet-05",
+          "Fleet-06",
+          "Fleet-07",
+          "Fleet-08",
+          "Fleet-09",
+          "Fleet-10"
+        ],
+        "accounts": [
+          "HDFC-MULE-4819 (Flagged Mule Account)"
+        ],
+        "organizations": [
+          "SELF (SUPREME CORE)"
+        ]
+      }
+    },
+    {
+      "id": "fir_test_01",
+      "firNumber": "FIR-2026-TEST-001",
+      "crimeCategory": "Special Ops Syndicate",
+      "severity": "CRITICAL"
+    },
+    {
+      "id": "fir_2026_001",
+      "firNumber": "FIR-2026-DL-00189",
+      "policeStation": "Connaught Place Police Station, New Delhi",
+      "dateReported": "2026-03-01T14:20:00Z",
+      "dateOfOccurrence": "2026-02-28T22:45:00Z",
+      "crimeCategory": "Cyber Financial Fraud & Extortion",
+      "sectionsIPC": [
+        "420 (Cheating)",
+        "384 (Extortion)",
+        "120B (Criminal Conspiracy)"
+      ],
+      "sectionsBNS": [
+        "318 (Cheating)",
+        "308 (Extortion)",
+        "61 (Criminal Conspiracy)"
+      ],
+      "complainant": "Rajiv Mehra (Director, Apex FinTech)",
+      "status": "UNDER_INVESTIGATION",
+      "severity": "CRITICAL",
+      "investigatingOfficerId": "off_002",
+      "investigatingOfficerName": "Insp. Ananya Sharma",
+      "assignedTo": "off_002",
+      "briefSummary": "Syndicate impersonating enforcement directorate officials extorted \u20b91.45 Crores via mule accounts and encrypted VOIP calls.",
+      "location": "Connaught Place, Central Delhi",
+      "coordinates": {
+        "lat": 28.6315,
+        "lng": 77.2167
+      },
+      "extractedEntities": {
+        "suspects": [
+          "Karan Malhotra @ Tiger",
+          "Sameer Qureshi"
+        ],
+        "phones": [
+          "+91 98711 02934",
+          "+91 99102 38472"
+        ],
+        "vehicles": [
+          "DL-3C-AZ-9901"
+        ],
+        "accounts": [
+          "HDFC-MULE-4819",
+          "ICICI-MULE-9021"
+        ]
+      }
+    },
+    {
+      "id": "fir_2026_002",
+      "firNumber": "FIR-2026-DL-00190",
+      "policeStation": "Hauz Khas Police Station, South Delhi",
+      "dateReported": "2026-03-03T09:10:00Z",
+      "dateOfOccurrence": "2026-03-02T23:15:00Z",
+      "crimeCategory": "Armed Robbery & Hijacking",
+      "sectionsIPC": [
+        "392 (Robbery)",
+        "397 (Robbery with attempt to cause death)",
+        "34 (Common Intention)"
+      ],
+      "sectionsBNS": [
+        "309 (Robbery)",
+        "311 (Robbery with firearm)",
+        "3(5) (Joint Liability)"
+      ],
+      "complainant": "Sunil Verma (Logistics Supervisor)",
+      "status": "UNDER_INVESTIGATION",
+      "severity": "HIGH",
+      "investigatingOfficerId": "off_001",
+      "investigatingOfficerName": "ACP Vikram Rathore",
+      "assignedTo": "off_001",
+      "briefSummary": "Armed interception of cash transit van near Ring Road flyover by 3 assailants in an unregistered white SUV.",
+      "location": "AIIMS Flyover, Ring Road, South Delhi",
+      "coordinates": {
+        "lat": 28.5672,
+        "lng": 77.21
+      },
+      "extractedEntities": {
+        "suspects": [
+          "Vikky Pehelwan",
+          "Unknown Accomplice 1"
+        ],
+        "phones": [
+          "+91 97182 99012"
+        ],
+        "vehicles": [
+          "HR-26-CR-4412"
+        ],
+        "weapons": [
+          "Desi Katta (Country Pistol)",
+          "Iron Rod"
+        ]
+      }
+    },
+    {
+      "id": "fir_2026_003",
+      "firNumber": "FIR-2026-MH-00412",
+      "policeStation": "Bandra Kurla Complex (BKC) PS, Mumbai",
+      "dateReported": "2026-02-25T16:00:00Z",
+      "dateOfOccurrence": "2026-02-24T20:30:00Z",
+      "crimeCategory": "Organized Syndicate Drug Trafficking",
+      "sectionsIPC": [
+        "120B (Criminal Conspiracy)",
+        "NDPS Act Sec 8/21/29"
+      ],
+      "sectionsBNS": [
+        "61 (Criminal Conspiracy)",
+        "Special NDPS Provisions"
+      ],
+      "complainant": "Sub-Inspector K. Patil (Narcotics Cell)",
+      "status": "CHARGESHEETED",
+      "severity": "CRITICAL",
+      "investigatingOfficerId": "off_003",
+      "investigatingOfficerName": "Sr. Insp. Rajesh Deshmukh",
+      "assignedTo": "off_003",
+      "briefSummary": "Interception of synthetic opioid consignment worth \u20b93.2 Cr distributed via darknet dead drops in industrial warehouse.",
+      "location": "Kurla West Industrial Estate, Mumbai",
+      "coordinates": {
+        "lat": 19.0657,
+        "lng": 72.879
+      },
+      "extractedEntities": {
+        "suspects": [
+          "Iqbal 'Bhai' Ansari",
+          "Karan Malhotra @ Tiger"
+        ],
+        "phones": [
+          "+91 98200 44321"
+        ],
+        "vehicles": [
+          "MH-02-EE-8899"
+        ],
+        "organizations": [
+          "Shadow Logistics LLP"
+        ]
+      }
+    },
+    {
+      "id": "fir_2026_004",
+      "firNumber": "FIR-2026-KA-00105",
+      "policeStation": "Indiranagar Police Station, Bengaluru",
+      "dateReported": "2026-03-06T11:45:00Z",
+      "dateOfOccurrence": "2026-03-05T01:30:00Z",
+      "crimeCategory": "Burglary & Electronic Heist",
+      "sectionsIPC": [
+        "457 (Lurking house-trespass)",
+        "380 (Theft in dwelling)"
+      ],
+      "sectionsBNS": [
+        "331 (House-trespass for offence)",
+        "305 (Theft)"
+      ],
+      "complainant": "Priya Nambiar",
+      "status": "REGISTERED",
+      "severity": "MEDIUM",
+      "investigatingOfficerId": "off_002",
+      "investigatingOfficerName": "Insp. Ananya Sharma",
+      "assignedTo": "off_002",
+      "briefSummary": "High-end jewelry store electronic lock bypassed with RF jammer; \u20b945 Lakhs in diamond ornaments stolen.",
+      "location": "100ft Road, Indiranagar, Bengaluru",
+      "coordinates": {
+        "lat": 12.9784,
+        "lng": 77.6408
+      },
+      "extractedEntities": {
+        "suspects": [
+          "The Phantom Crew"
+        ],
+        "phones": [
+          "+91 94480 12389"
+        ],
+        "vehicles": [
+          "KA-03-MN-7102"
+        ]
+      }
+    }
+  ],
+  "persons": [
+    {
+      "id": "Ranjith (OP RANJITH)",
+      "name": "Ranjith (OP RANJITH)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "OP RANJITH",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Identified in FIR processing",
+      "associatedFIRs": [
+        "FIR-2026-TEST-001"
+      ]
+    },
+    {
+      "id": "Navneeth (Cipher)",
+      "name": "Navneeth (Cipher)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "Cipher",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: VoIP Comms & Cyber Lieutenant",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Lokesh (The Banker)",
+      "name": "Lokesh (The Banker)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "The Banker",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: Cash Comptroller & Hawala Mule",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Rajesh (Ghost)",
+      "name": "Rajesh (Ghost)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "Ghost",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: Seaport Smuggling Logistics Boss",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Kemo (The Chemist)",
+      "name": "Kemo (The Chemist)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "The Chemist",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: Narcotics Formulation & Synthetic Lab",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "SaiKrishna (Observer)",
+      "name": "SaiKrishna (Observer)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "Observer",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: Intelligence & Recon Coordinator",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Tameem (Quartermaster)",
+      "name": "Tameem (Quartermaster)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "Quartermaster",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: Logistics & Procurement Manager",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Praveen (Night Hawk)",
+      "name": "Praveen (Night Hawk)",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "Night Hawk",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Suspect Matrix Role: Field Operations Lieutenant",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Ranjith",
+      "name": "Ranjith",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Kingpin & Strategic Financier (OP RANJITH)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Navneeth",
+      "name": "Navneeth",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "VoIP Comms & Cyber Lieutenant (Alias: Cipher)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Lokesh",
+      "name": "Lokesh",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Cash Comptroller & Hawala Mule (The Banker)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Rajesh",
+      "name": "Rajesh",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Seaport Smuggling Logistics Boss (Alias: Ghost)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Kemo",
+      "name": "Kemo",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Narcotics Formulation & Synthetic Lab (The Chemist)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "SaiKrishna",
+      "name": "SaiKrishna",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Intelligence & Recon Coordinator (Alias: Observer)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Tameem",
+      "name": "Tameem",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Quartermaster / Logistics & Procurement",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "Praveen",
+      "name": "Praveen",
+      "role": "PRIMARY_SUSPECT",
+      "riskLevel": "CRITICAL",
+      "status": "UNDER_SURVEILLANCE",
+      "alias": "None",
+      "address": "Zone 1 Holding",
+      "criminalRecord": "Field Operations Lieutenant (Night Hawk)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ]
+    },
+    {
+      "id": "per_001",
+      "name": "Karan Malhotra",
+      "alias": "Tiger / KM",
+      "role": "PRIMARY_SUSPECT",
+      "age": 34,
+      "gender": "Male",
+      "nationality": "Indian",
+      "address": "Flat 402, Royal Residency, Rohini Sector 14, Delhi",
+      "phone": "+91 98711 02934",
+      "aadhaarRef": "XXXX-XXXX-8921",
+      "riskLevel": "CRITICAL",
+      "associatedFIRs": [
+        "fir_2026_001",
+        "fir_2026_003"
+      ],
+      "criminalRecord": "Previous arrests in 2021 (Cyber fraud), 2023 (Extortion)",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "status": "ABSCONDING"
+    },
+    {
+      "id": "per_002",
+      "name": "Sameer Qureshi",
+      "alias": "Sammy Banker",
+      "role": "ACCOMPLICE",
+      "age": 29,
+      "gender": "Male",
+      "nationality": "Indian",
+      "address": "Gali 4, Jafrabad, North East Delhi",
+      "phone": "+91 99102 38472",
+      "aadhaarRef": "XXXX-XXXX-4412",
+      "riskLevel": "HIGH",
+      "associatedFIRs": [
+        "fir_2026_001"
+      ],
+      "criminalRecord": "Hawala routing operator, mule bank account distributor",
+      "photo": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+      "status": "UNDER_SURVEILLANCE"
+    },
+    {
+      "id": "per_003",
+      "name": "Vikram Rathore (Complainant / Witness)",
+      "alias": "None",
+      "role": "WITNESS",
+      "age": 42,
+      "gender": "Male",
+      "nationality": "Indian",
+      "phone": "+91 98112 00192",
+      "status": "COOPERATING"
+    },
+    {
+      "id": "per_004",
+      "name": "Iqbal Ansari",
+      "alias": "Bhaijaan / Shadow Boss",
+      "role": "SYNDICATE_HEAD",
+      "age": 48,
+      "gender": "Male",
+      "nationality": "Indian",
+      "phone": "+91 98200 44321",
+      "riskLevel": "CRITICAL",
+      "associatedFIRs": [
+        "fir_2026_003"
+      ],
+      "status": "WANTED"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "DL-01-SYND-99",
+      "regNumber": "DL-01-SYND-99",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true
+    },
+    {
+      "id": "Fleet-01",
+      "regNumber": "Fleet-01",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-02",
+      "regNumber": "Fleet-02",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-03",
+      "regNumber": "Fleet-03",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-04",
+      "regNumber": "Fleet-04",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-05",
+      "regNumber": "Fleet-05",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-06",
+      "regNumber": "Fleet-06",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-07",
+      "regNumber": "Fleet-07",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-08",
+      "regNumber": "Fleet-08",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-09",
+      "regNumber": "Fleet-09",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "Fleet-10",
+      "regNumber": "Fleet-10",
+      "make": "Syndicate Fleet Asset",
+      "color": "Dark Metallic",
+      "flaggedStolen": true,
+      "lastSeenLocation": "Zone 1 Holding"
+    },
+    {
+      "id": "veh_001",
+      "regNumber": "DL-3C-AZ-9901",
+      "make": "Mahindra Scorpio",
+      "color": "Stealth Black",
+      "owner": "Karan Malhotra",
+      "flaggedStolen": false,
+      "involvedCrimes": 2
+    },
+    {
+      "id": "veh_002",
+      "regNumber": "HR-26-CR-4412",
+      "make": "Toyota Fortuner",
+      "color": "White",
+      "owner": "Gurgaon Fake Leasing",
+      "flaggedStolen": true,
+      "involvedCrimes": 3
+    },
+    {
+      "id": "veh_003",
+      "regNumber": "MH-02-EE-8899",
+      "make": "Tata Nexon EV",
+      "color": "Dark Blue",
+      "owner": "Shadow Logistics LLP",
+      "flaggedStolen": false,
+      "involvedCrimes": 1
+    }
+  ],
+  "phones": [
+    {
+      "id": "+91-90001-2001",
+      "number": "+91-90001-2001",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921309876879",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2002",
+      "number": "+91-90001-2002",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921579532540",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2003",
+      "number": "+91-90001-2003",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921393174708",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2004",
+      "number": "+91-90001-2004",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921171644275",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2005",
+      "number": "+91-90001-2005",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921153141097",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2006",
+      "number": "+91-90001-2006",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921381678421",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2007",
+      "number": "+91-90001-2007",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921757689228",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2008",
+      "number": "+91-90001-2008",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921280249918",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2009",
+      "number": "+91-90001-2009",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921775791142",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "+91-90001-2010",
+      "number": "+91-90001-2010",
+      "status": "FLAGGED",
+      "riskScore": 92,
+      "carrier": "Intercepted Carrier",
+      "imei": "358921311798984",
+      "subscriberName": "Syndicate Conduit",
+      "associatedSuspects": [
+        "Ranjith (OP RANJITH)"
+      ]
+    },
+    {
+      "id": "ph_001",
+      "number": "+91 98711 02934",
+      "subscriberName": "Karan Malhotra",
+      "carrier": "Airtel Delhi",
+      "imei": "864192040182910",
+      "isActive": true,
+      "riskScore": 92
+    },
+    {
+      "id": "ph_002",
+      "number": "+91 99102 38472",
+      "subscriberName": "Sameer Qureshi (Fake ID)",
+      "carrier": "Jio Delhi",
+      "imei": "864192040991823",
+      "isActive": true,
+      "riskScore": 84
+    },
+    {
+      "id": "ph_003",
+      "number": "+91 98200 44321",
+      "subscriberName": "Shadow Corp SIM",
+      "carrier": "Vodafone Mumbai",
+      "imei": "359812048172630",
+      "isActive": false,
+      "riskScore": 95
+    },
+    {
+      "id": "ph_004",
+      "number": "+91 97182 99012",
+      "subscriberName": "Burner 104",
+      "carrier": "Airtel Haryana",
+      "imei": "861928374651920",
+      "isActive": true,
+      "riskScore": 76
+    }
+  ],
+  "locations": [
+    {
+      "id": "Zone 8 Holding",
+      "name": "Zone 8 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 7 Holding",
+      "name": "Zone 7 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 6 Holding",
+      "name": "Zone 6 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 5 Holding",
+      "name": "Zone 5 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 4 Holding",
+      "name": "Zone 4 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 3 Holding",
+      "name": "Zone 3 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 2 Holding",
+      "name": "Zone 2 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "Zone 1 Holding",
+      "name": "Zone 1 Holding",
+      "category": "Safehouse / Incident Locus",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "loc_001",
+      "name": "Connaught Place Inner Circle",
+      "city": "New Delhi",
+      "lat": 28.6315,
+      "lng": 77.2167,
+      "category": "Commercial Hub",
+      "crimeRate": "HIGH"
+    },
+    {
+      "id": "loc_002",
+      "name": "AIIMS Flyover Junction",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "category": "Transit Corridor",
+      "crimeRate": "CRITICAL"
+    },
+    {
+      "id": "loc_003",
+      "name": "Kurla Industrial Zone",
+      "city": "Mumbai",
+      "lat": 19.0657,
+      "lng": 72.879,
+      "category": "Warehouse Zone",
+      "crimeRate": "HIGH"
+    },
+    {
+      "id": "loc_004",
+      "name": "Rohini Sector 14",
+      "city": "New Delhi",
+      "lat": 28.718,
+      "lng": 77.129,
+      "category": "Residential Hideout",
+      "crimeRate": "MEDIUM"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "SELF (SUPREME CORE)",
+      "name": "SELF (SUPREME CORE)",
+      "type": "Syndicate Network Cell",
+      "regNumber": "INTERCEPT-2026-SYN",
+      "risk": "CRITICAL",
+      "headquarters": "Zone 1 Holding"
+    },
+    {
+      "id": "org_001",
+      "name": "Shadow Logistics LLP",
+      "type": "Shell Company / Freight",
+      "regNumber": "U74999MH2022PTC8912",
+      "risk": "CRITICAL",
+      "headquarters": "Kurla, Mumbai"
+    },
+    {
+      "id": "org_002",
+      "name": "Apex FinTech Pvt Ltd",
+      "type": "Legitimate Entity (Victim)",
+      "regNumber": "U72200DL2019PTC3409",
+      "risk": "LOW",
+      "headquarters": "Connaught Place, Delhi"
+    },
+    {
+      "id": "org_003",
+      "name": "Digital Pay Nexus",
+      "type": "Unregulated Payment Gateway",
+      "regNumber": "OFFSHORE-BVI-9921",
+      "risk": "CRITICAL",
+      "headquarters": "Offshore / Web"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "HDFC-MULE-4819 (Flagged Mule Account)",
+      "amount": 4500000,
+      "type": "HAWALA_ROUTING",
+      "senderAccount": "HDFC-MULE-4819 (Flagged Mule Account)",
+      "receiverAccount": "HDFC-MULE-4819",
+      "status": "FLAGGED",
+      "timestamp": "2026-09-10T16:50:23.865163Z"
+    },
+    {
+      "id": "tx_001",
+      "senderAccount": "Apex FinTech - Escrow",
+      "receiverAccount": "HDFC-MULE-4819",
+      "amount": 6500000,
+      "timestamp": "2026-02-28T22:50:00Z",
+      "status": "FLAGGED",
+      "type": "RTGS"
+    },
+    {
+      "id": "tx_002",
+      "senderAccount": "HDFC-MULE-4819",
+      "receiverAccount": "ICICI-MULE-9021",
+      "amount": 4000000,
+      "timestamp": "2026-02-28T23:10:00Z",
+      "status": "FROZEN",
+      "type": "IMPS"
+    },
+    {
+      "id": "tx_003",
+      "senderAccount": "HDFC-MULE-4819",
+      "receiverAccount": "Crypto Desk Cash-Out",
+      "amount": 2500000,
+      "timestamp": "2026-02-28T23:25:00Z",
+      "status": "COMPLETED",
+      "type": "P2P_USDT"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "per_001",
+      "target": "ph_001",
+      "relation": "owns",
+      "weight": 1.0,
+      "details": "Subscribed SIM line +91 98711 02934",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "per_002",
+      "target": "ph_002",
+      "relation": "owns",
+      "weight": 0.95,
+      "details": "Handset IMEI match +91 99102 38472",
+      "date": "2026-02-15"
+    },
+    {
+      "source": "ph_001",
+      "target": "ph_002",
+      "relation": "called",
+      "weight": 0.98,
+      "details": "64 CDR calls in 14 days (1,840 mins)",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "ph_002",
+      "target": "ph_004",
+      "relation": "communicated_with",
+      "weight": 0.89,
+      "details": "Encrypted VoIP ping to +91 98200 44321",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_001",
+      "target": "per_002",
+      "relation": "associated_with",
+      "weight": 0.95,
+      "details": "Co-conspirator in cyber extortion syndicate",
+      "date": "2026-02-20"
+    },
+    {
+      "source": "per_002",
+      "target": "per_004",
+      "relation": "associated_with",
+      "weight": 0.88,
+      "details": "Subordinate courier to Iqbal Ansari",
+      "date": "2026-02-22"
+    },
+    {
+      "source": "per_001",
+      "target": "per_004",
+      "relation": "met",
+      "weight": 0.75,
+      "details": "Physical rendezvous observed at Kurla freight terminal",
+      "date": "2026-02-24"
+    },
+    {
+      "source": "per_001",
+      "target": "veh_001",
+      "relation": "owns",
+      "weight": 1.0,
+      "details": "Registered owner of DL-3C-AZ-9901",
+      "date": "2025-11-12"
+    },
+    {
+      "source": "veh_002",
+      "target": "loc_002",
+      "relation": "visited",
+      "weight": 0.92,
+      "details": "ANPR sighting on AIIMS flyover toll corridor",
+      "date": "2026-03-02"
+    },
+    {
+      "source": "per_001",
+      "target": "loc_001",
+      "relation": "visited",
+      "weight": 0.85,
+      "details": "CCTV camera #14 in Connaught Place",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_004",
+      "target": "loc_003",
+      "relation": "visited",
+      "weight": 0.96,
+      "details": "Warehouse operational base in Kurla",
+      "date": "2026-02-25"
+    },
+    {
+      "source": "veh_003",
+      "target": "loc_003",
+      "relation": "visited",
+      "weight": 0.88,
+      "details": "Delivery vehicle sighting outside warehouse",
+      "date": "2026-02-24"
+    },
+    {
+      "source": "per_004",
+      "target": "org_001",
+      "relation": "connected_to",
+      "weight": 0.99,
+      "details": "Beneficial director MCA records for Shadow Logistics",
+      "date": "2022-04-18"
+    },
+    {
+      "source": "per_002",
+      "target": "tx_001",
+      "relation": "transaction",
+      "weight": 0.94,
+      "details": "Beneficiary of \u20b965L RTGS into mule account",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "tx_001",
+      "target": "tx_002",
+      "relation": "transaction",
+      "weight": 0.92,
+      "details": "Layered transfer of \u20b940L into ICICI mule account",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "tx_001",
+      "target": "org_001",
+      "relation": "connected_to",
+      "weight": 0.87,
+      "details": "Corporate freight invoice reference",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_001",
+      "target": "fir_2026_001",
+      "relation": "involved_in",
+      "weight": 0.98,
+      "details": "Primary accused in cyber fraud FIR",
+      "date": "2026-03-01"
+    },
+    {
+      "source": "per_002",
+      "target": "fir_2026_001",
+      "relation": "involved_in",
+      "weight": 0.92,
+      "details": "Accomplice named in FIR-2026-DL-00189",
+      "date": "2026-03-01"
+    },
+    {
+      "source": "per_004",
+      "target": "fir_2026_003",
+      "relation": "involved_in",
+      "weight": 0.95,
+      "details": "Kingpin named in NDPS chargesheet",
+      "date": "2026-02-25"
+    },
+    {
+      "source": "fir_2026_001",
+      "target": "evt_002",
+      "relation": "involved_in",
+      "weight": 0.9,
+      "details": "FIR filed on corporate ransom call",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "fir_2026_002",
+      "target": "evt_001",
+      "relation": "involved_in",
+      "weight": 0.96,
+      "details": "Cash van armed robbery incident",
+      "date": "2026-03-02"
+    },
+    {
+      "source": "per_003",
+      "target": "fir_2026_001",
+      "relation": "involved_in",
+      "weight": 0.98,
+      "details": "Complainant who registered FIR-2026-DL-00189 on corporate ransom extortion",
+      "date": "2026-03-01"
+    },
+    {
+      "source": "per_003",
+      "target": "org_002",
+      "relation": "connected_to",
+      "weight": 0.94,
+      "details": "Managing Director at victim company Apex FinTech Pvt Ltd",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_003",
+      "target": "loc_001",
+      "relation": "visited",
+      "weight": 0.88,
+      "details": "Executive corporate suite in Connaught Place",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "ph_001",
+      "target": "per_003",
+      "relation": "called",
+      "weight": 0.96,
+      "details": "Extortion call transmitted from Karan Malhotra to Vikram Rathore demanding \u20b92.5 Cr",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_004",
+      "target": "ph_003",
+      "relation": "owns",
+      "weight": 1.0,
+      "details": "Encrypted VoIP handset registered to shadow persona",
+      "date": "2026-02-12"
+    },
+    {
+      "source": "ph_002",
+      "target": "ph_003",
+      "relation": "communicated_with",
+      "weight": 0.92,
+      "details": "Encrypted communication ping between Sameer Qureshi and Iqbal Ansari",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_001",
+      "target": "ph_004",
+      "relation": "communicated_with",
+      "weight": 0.87,
+      "details": "Burner coordination call during highway heist",
+      "date": "2026-03-02"
+    },
+    {
+      "source": "veh_002",
+      "target": "ph_004",
+      "relation": "connected_to",
+      "weight": 0.91,
+      "details": "Tower triangulation match with Fortuner GPS tracker",
+      "date": "2026-03-02"
+    },
+    {
+      "source": "tx_001",
+      "target": "org_002",
+      "relation": "connected_to",
+      "weight": 0.95,
+      "details": "Compromised Apex FinTech escrow bank account debited",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "tx_002",
+      "target": "org_003",
+      "relation": "connected_to",
+      "weight": 0.94,
+      "details": "Offshore unmanifested gateway Digital Pay Nexus",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "tx_003",
+      "target": "org_003",
+      "relation": "transaction",
+      "weight": 0.98,
+      "details": "P2P USDT cash-out conversion via offshore gateway",
+      "date": "2026-02-28"
+    },
+    {
+      "source": "per_004",
+      "target": "org_003",
+      "relation": "connected_to",
+      "weight": 0.89,
+      "details": "Beneficial controller of Digital Pay Nexus through offshore nominee trust",
+      "date": "2025-08-14"
+    },
+    {
+      "source": "per_001",
+      "target": "loc_004",
+      "relation": "visited",
+      "weight": 0.9,
+      "details": "Rohini Sector 14 residential transit safehouse",
+      "date": "2026-03-01"
+    },
+    {
+      "source": "veh_001",
+      "target": "loc_004",
+      "relation": "visited",
+      "weight": 0.86,
+      "details": "Mahindra Scorpio parked outside Rohini hideout",
+      "date": "2026-03-01"
+    },
+    {
+      "source": "per_001",
+      "target": "fir_2026_004",
+      "relation": "involved_in",
+      "weight": 0.82,
+      "details": "RF jammer procurement trail linked to Bengaluru heist",
+      "date": "2026-03-06"
+    },
+    {
+      "source": "fir_2026_004",
+      "target": "loc_001",
+      "relation": "involved_in",
+      "weight": 0.78,
+      "details": "Inter-state fencing nexus in Connaught Place",
+      "date": "2026-03-05"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "DL-01-SYND-99",
+      "relation": "owns",
+      "weight": 0.98,
+      "details": "Triangulated from FIR-2026-TEST-001"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "FIR-2026-DL-3995",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Lokesh",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Rajesh",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Kemo",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "SaiKrishna",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Tameem",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Praveen",
+      "target": "Ranjith (OP RANJITH)",
+      "relation": "PERSON_ASSOCIATED_WITH_PERSON",
+      "weight": 0.94,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "+91-90001-2001",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "Fleet-01",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "Zone 1 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "+91-90001-2002",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "Fleet-02",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "Zone 2 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "+91-90001-2003",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "Fleet-03",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "Zone 3 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "+91-90001-2004",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "Fleet-04",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "Zone 4 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "+91-90001-2005",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "Fleet-05",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "Zone 5 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "+91-90001-2006",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "Fleet-06",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "Zone 6 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "+91-90001-2007",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "Fleet-07",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "Zone 7 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "+91-90001-2008",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "Fleet-08",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "Zone 8 Holding",
+      "relation": "PERSON_VISITED_LOCATION",
+      "weight": 0.9,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith",
+      "target": "+91-90001-2009",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith",
+      "target": "Fleet-09",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth",
+      "target": "+91-90001-2010",
+      "relation": "PERSON_CALLED_PHONE",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Navneeth",
+      "target": "Fleet-10",
+      "relation": "PERSON_OWNS_VEHICLE",
+      "weight": 0.91,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "HDFC-MULE-4819 (Flagged Mule Account)",
+      "relation": "PERSON_TRANSACTION_ACCOUNT",
+      "weight": 0.92,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "SELF (SUPREME CORE)",
+      "relation": "PERSON_CONNECTED_TO_ORGANIZATION",
+      "weight": 0.93,
+      "details": "Triangulated from FIR-2026-DL-3995"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "FIR-2026-DL-4092",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-4092"
+    },
+    {
+      "source": "Ranjith (OP RANJITH)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "Navneeth (Cipher)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "Lokesh (The Banker)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "Rajesh (Ghost)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "Kemo (The Chemist)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "SaiKrishna (Observer)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "Tameem (Quartermaster)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    },
+    {
+      "source": "Praveen (Night Hawk)",
+      "target": "FIR-2026-DL-9223",
+      "relation": "PERSON_INVOLVED_IN_FIR",
+      "weight": 0.96,
+      "details": "Triangulated from FIR-2026-DL-9223"
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "hs_a30566",
+      "name": "Zone 1 Holding",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "radiusMeters": 800,
+      "densityScore": 94,
+      "primaryCrimes": [
+        "Organized Crime Syndicate & Hawala Network"
+      ],
+      "riskLevel": "CRITICAL",
+      "patrolRecommendation": "Intensify tactical check-posts within 800m of Zone 1 Holding during peak night intervals."
+    },
+    {
+      "id": "hs_001",
+      "name": "Connaught Place - Financial District",
+      "city": "New Delhi",
+      "lat": 28.6315,
+      "lng": 77.2167,
+      "radiusMeters": 650,
+      "densityScore": 88,
+      "primaryCrimes": [
+        "Cyber Fraud",
+        "Corporate Extortion",
+        "ATM Skimming"
+      ],
+      "riskLevel": "HIGH",
+      "associatedFIRs": [
+        "fir_2026_001",
+        "fir_2026_DL_00189"
+      ],
+      "relatedEntityIds": [
+        "per_001",
+        "per_002",
+        "ph_001",
+        "org_002"
+      ],
+      "patrolRecommendation": "Deploy cyber forensics surveillance unit and inspect ATM vestibules 18:00 - 23:00.",
+      "timeTrend": [
+        {
+          "period": "Oct",
+          "count": 14
+        },
+        {
+          "period": "Nov",
+          "count": 19
+        },
+        {
+          "period": "Dec",
+          "count": 25
+        },
+        {
+          "period": "Jan",
+          "count": 21
+        },
+        {
+          "period": "Feb",
+          "count": 31
+        },
+        {
+          "period": "Mar",
+          "count": 38
+        }
+      ],
+      "crimeBreakdown": [
+        {
+          "category": "Cyber Fraud & Extortion",
+          "percentage": 52
+        },
+        {
+          "category": "Financial ATM Skimming",
+          "percentage": 28
+        },
+        {
+          "category": "Identity Impersonation",
+          "percentage": 20
+        }
+      ],
+      "recentIncidents": [
+        {
+          "firNumber": "FIR-2026-DL-00189",
+          "date": "2026-03-01",
+          "statutes": "BNS 318, 308 / IPC 420, 384",
+          "desc": "Corporate server ransomware extortion targeting \u20b92.5 Cr"
+        },
+        {
+          "firNumber": "FIR-2026-DL-00142",
+          "date": "2026-02-14",
+          "statutes": "BNS 318 / IPC 420",
+          "desc": "Phishing syndicate cloning senior banker credentials"
+        }
+      ]
+    },
+    {
+      "id": "hs_002",
+      "name": "Ring Road - AIIMS & Safdarjung Corridor",
+      "city": "New Delhi",
+      "lat": 28.5672,
+      "lng": 77.21,
+      "radiusMeters": 1100,
+      "densityScore": 96,
+      "primaryCrimes": [
+        "Armed Robbery",
+        "Vehicle Interception",
+        "Highway Heist"
+      ],
+      "riskLevel": "CRITICAL",
+      "associatedFIRs": [
+        "fir_2026_002",
+        "fir_2026_0e2576"
+      ],
+      "relatedEntityIds": [
+        "per_001",
+        "veh_002",
+        "ph_001"
+      ],
+      "patrolRecommendation": "Deploy 2 PCR vans + automated ANPR camera barrier from 22:00 to 04:00.",
+      "timeTrend": [
+        {
+          "period": "Oct",
+          "count": 8
+        },
+        {
+          "period": "Nov",
+          "count": 12
+        },
+        {
+          "period": "Dec",
+          "count": 20
+        },
+        {
+          "period": "Jan",
+          "count": 26
+        },
+        {
+          "period": "Feb",
+          "count": 34
+        },
+        {
+          "period": "Mar",
+          "count": 42
+        }
+      ],
+      "crimeBreakdown": [
+        {
+          "category": "Armed Cash Van Robbery",
+          "percentage": 58
+        },
+        {
+          "category": "Commercial Vehicle Hijacking",
+          "percentage": 26
+        },
+        {
+          "category": "Firearm Threat & Intimidation",
+          "percentage": 16
+        }
+      ],
+      "recentIncidents": [
+        {
+          "firNumber": "FIR-2026-DL-00190",
+          "date": "2026-03-02",
+          "statutes": "BNS 309, 311 / IPC 392, 397",
+          "desc": "Armed interception of cash transit van by assailants in white SUV"
+        },
+        {
+          "firNumber": "FIR-2026-DL-00115",
+          "date": "2026-01-28",
+          "statutes": "BNS 309 / IPC 392",
+          "desc": "Night gunpoint carjacking of commercial logistics vehicle"
+        }
+      ]
+    },
+    {
+      "id": "hs_003",
+      "name": "Kurla East-West Freight Corridor",
+      "city": "Mumbai",
+      "lat": 19.0657,
+      "lng": 72.879,
+      "radiusMeters": 900,
+      "densityScore": 84,
+      "primaryCrimes": [
+        "NDPS Narcotics",
+        "Illicit Storage",
+        "Extortion Front"
+      ],
+      "riskLevel": "HIGH",
+      "associatedFIRs": [
+        "fir_2026_003"
+      ],
+      "relatedEntityIds": [
+        "per_004",
+        "org_001",
+        "veh_003",
+        "ph_004"
+      ],
+      "patrolRecommendation": "Inter-agency Narcotics Control Bureau (NCB) raids on freight warehouses.",
+      "timeTrend": [
+        {
+          "period": "Oct",
+          "count": 10
+        },
+        {
+          "period": "Nov",
+          "count": 15
+        },
+        {
+          "period": "Dec",
+          "count": 18
+        },
+        {
+          "period": "Jan",
+          "count": 24
+        },
+        {
+          "period": "Feb",
+          "count": 29
+        },
+        {
+          "period": "Mar",
+          "count": 33
+        }
+      ],
+      "crimeBreakdown": [
+        {
+          "category": "Synthetic Opioid Trafficking",
+          "percentage": 64
+        },
+        {
+          "category": "Front Company Money Laundering",
+          "percentage": 22
+        },
+        {
+          "category": "Contraband Stockpiling",
+          "percentage": 14
+        }
+      ],
+      "recentIncidents": [
+        {
+          "firNumber": "FIR-2026-MH-00412",
+          "date": "2026-02-24",
+          "statutes": "BNS 61 / NDPS Sec 8/21/29",
+          "desc": "Seizure of \u20b93.2 Cr synthetic contraband concealed in freight consignment"
+        }
+      ]
+    },
+    {
+      "id": "hs_004",
+      "name": "Indiranagar 100ft Commercial Belt",
+      "city": "Bengaluru",
+      "lat": 12.9784,
+      "lng": 77.6408,
+      "radiusMeters": 550,
+      "densityScore": 72,
+      "primaryCrimes": [
+        "Burglary",
+        "Electronic Heist",
+        "Night Robbery"
+      ],
+      "riskLevel": "MEDIUM",
+      "associatedFIRs": [
+        "fir_2026_004"
+      ],
+      "relatedEntityIds": [
+        "per_001",
+        "loc_004"
+      ],
+      "patrolRecommendation": "Foot beat patrols and commercial jeweler CCTV integration post-midnight.",
+      "timeTrend": [
+        {
+          "period": "Oct",
+          "count": 6
+        },
+        {
+          "period": "Nov",
+          "count": 8
+        },
+        {
+          "period": "Dec",
+          "count": 11
+        },
+        {
+          "period": "Jan",
+          "count": 9
+        },
+        {
+          "period": "Feb",
+          "count": 14
+        },
+        {
+          "period": "Mar",
+          "count": 18
+        }
+      ],
+      "crimeBreakdown": [
+        {
+          "category": "Commercial Safe Burglary",
+          "percentage": 50
+        },
+        {
+          "category": "RF Jammer Electronic Bypass",
+          "percentage": 32
+        },
+        {
+          "category": "Late-Night Shopbreaking",
+          "percentage": 18
+        }
+      ],
+      "recentIncidents": [
+        {
+          "firNumber": "FIR-2026-KA-00105",
+          "date": "2026-03-05",
+          "statutes": "BNS 331, 305 / IPC 457, 380",
+          "desc": "Jewelry store heist with RF jammer disabling alarm telemetry"
+        }
+      ]
+    },
+    {
+      "id": "hs_005",
+      "name": "Rohini Sector 14 Transit Safehouse",
+      "city": "New Delhi",
+      "lat": 28.718,
+      "lng": 77.129,
+      "radiusMeters": 450,
+      "densityScore": 68,
+      "primaryCrimes": [
+        "Suspect Harboring",
+        "Stolen Goods Stockpile"
+      ],
+      "riskLevel": "MEDIUM",
+      "associatedFIRs": [
+        "fir_2026_001"
+      ],
+      "relatedEntityIds": [
+        "per_001",
+        "veh_001"
+      ],
+      "patrolRecommendation": "Discrete surveillance on apartment complex entrance and parking lots.",
+      "timeTrend": [
+        {
+          "period": "Oct",
+          "count": 4
+        },
+        {
+          "period": "Nov",
+          "count": 5
+        },
+        {
+          "period": "Dec",
+          "count": 7
+        },
+        {
+          "period": "Jan",
+          "count": 8
+        },
+        {
+          "period": "Feb",
+          "count": 10
+        },
+        {
+          "period": "Mar",
+          "count": 12
+        }
+      ],
+      "crimeBreakdown": [
+        {
+          "category": "Fugitive Hideout Sighting",
+          "percentage": 60
+        },
+        {
+          "category": "Vehicle Staging",
+          "percentage": 40
+        }
+      ],
+      "recentIncidents": [
+        {
+          "firNumber": "FIR-2026-DL-00189",
+          "date": "2026-03-01",
+          "statutes": "BNS 318 / IPC 420",
+          "desc": "Suspect Karan Malhotra last geo-located proximate to residential flat"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "inv_fir_2026_05f26d",
+      "title": "Operation: Organized Crime Syndicate & Hawala Network (FIR-2026-DL-9223)",
+      "leadOfficer": "Insp. Ananya Sharma",
+      "leadOfficerId": "off_002",
+      "priority": "P0_CRITICAL",
+      "status": "ACTIVE_INVESTIGATION",
+      "associatedFIRs": [
+        "FIR-2026-DL-9223"
+      ],
+      "targetEntities": [
+        "Ranjith (OP RANJITH)",
+        "Navneeth (Cipher)",
+        "Lokesh (The Banker)"
+      ],
+      "caseDiaryEntries": 1,
+      "progressPercentage": 40,
+      "latestUpdate": "Automated entity resolution and syndicate graph constructed for FIR-2026-DL-9223."
+    },
+    {
+      "id": "inv_fir_2026_82ca41",
+      "title": "Operation: Organized Crime Syndicate & Hawala Network (FIR-2026-DL-3995)",
+      "leadOfficer": "Insp. Ananya Sharma",
+      "leadOfficerId": "off_002",
+      "priority": "P0_CRITICAL",
+      "status": "ACTIVE_INVESTIGATION",
+      "associatedFIRs": [
+        "FIR-2026-DL-3995"
+      ],
+      "targetEntities": [
+        "Ranjith (OP RANJITH)",
+        "Navneeth (Cipher)",
+        "Lokesh (The Banker)"
+      ],
+      "caseDiaryEntries": 1,
+      "progressPercentage": 40,
+      "latestUpdate": "Automated entity resolution and syndicate graph constructed for FIR-2026-DL-3995."
+    },
+    {
+      "id": "inv_fir_2026_9f879f",
+      "title": "Operation: Organized Crime Syndicate & Hawala Network (FIR-2026-DL-4092)",
+      "leadOfficer": "Insp. Ananya Sharma",
+      "leadOfficerId": "off_002",
+      "priority": "P0_CRITICAL",
+      "status": "ACTIVE_INVESTIGATION",
+      "associatedFIRs": [
+        "FIR-2026-DL-4092"
+      ],
+      "targetEntities": [
+        "Ranjith (OP RANJITH)",
+        "Navneeth (Cipher)",
+        "Lokesh (The Banker)"
+      ],
+      "caseDiaryEntries": 1,
+      "progressPercentage": 40,
+      "latestUpdate": "Automated entity resolution and syndicate graph constructed for FIR-2026-DL-4092."
+    },
+    {
+      "id": "inv_001",
+      "title": "Operation Black Shield - Hawala & Extortion",
+      "leadOfficer": "Insp. Ananya Sharma",
+      "priority": "P1_URGENT",
+      "status": "ACTIVE_INTERROGATION",
+      "caseDiaryEntries": 14,
+      "linkedFIRs": [
+        "fir_2026_001"
+      ],
+      "targetEntities": [
+        "per_001",
+        "per_002",
+        "org_001"
+      ],
+      "progressPercentage": 68
+    },
+    {
+      "id": "inv_002",
+      "title": "Operation Nightfall - Highway Interceptor Heists",
+      "leadOfficer": "ACP Vikram Rathore",
+      "priority": "P0_CRITICAL",
+      "status": "SURVEILLANCE",
+      "caseDiaryEntries": 22,
+      "linkedFIRs": [
+        "fir_2026_002"
+      ],
+      "targetEntities": [
+        "veh_002",
+        "per_001"
+      ],
+      "progressPercentage": 82
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+FIRST INFORMATION REPORT
+(Under Section 154 Cr.P.C. / Section 173 Bharatiya Nagarik Suraksha Sanhita 2023)
+
+1. District: New Delhi, Police Station: Connaught Place PS, Year: 2026
+2. FIR Number: FIR-2026-DL-00189, Date & Time Reported: 01-Mar-2026 14:20 hrs
+3. Acts & Sections: BNS Section 318, 308, 61 | IPC Section 420, 384, 120B | Sec 66D Information Technology Act
+4. Complainant / Informant: Rajiv Mehra (Director, Apex FinTech Pvt Ltd)
+5. Suspects / Persons of Interest: Karan Malhotra @ Tiger, Sameer Qureshi (Banker / Mule Distributor)
+6. Place of Occurrence: Connaught Place, Central Delhi (Coordinates: 28.6315 N, 77.2167 E)
+7. Financial Entity: Flagged Beneficiary Account HDFC-MULE-4819 and ICICI-MULE-9021
+8. Involved Vehicles: Black Scorpio DL-3C-AZ-9901 observed conducting surveillance
+9. Flagged Phone Numbers: +91 98711 02934, +91 99102 38472
+
+Brief Narrative:
+The complainant reported that starting 27-Feb-2026, an organized criminal syndicate impersonating central financial enforcement directorate officials contacted executive management. Utilizing spoofed VOIP lines and forged arrest warrants, the syndicate coerced Rajiv Mehra to authorize two emergency RTGS transfers totaling INR 1,45,00,000 to primary mule account HDFC-MULE-4819. Telecommunication records indicate burner number +91 98711 02934 was utilized for coercive transmission. ANPR cameras logged suspect vehicle DL-3C-AZ-9901 in Connaught Place inner circle at 22:42 hours. Investigative analysis suggests an interstate syndicate involving suspect Karan Malhotra and mule operator Sameer Qureshi.
